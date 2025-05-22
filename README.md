@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Tanvir+ahmed+chowdhury..;I'm+a+Programmer+....;Cyber+Security+Researcher+....;Red+Teamer..;Low+Level+Learner..;I-Love+Malwares😁;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Tanvir+ahmed+chowdhury..;I'm+a+Software Developer+....;Cross+Platform+Software+Developer....;Hybrid+Software+Developer...;Flutter+Jetpack Compose+XML...;I-Love+Softwares😁;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
 </p>
 
 
@@ -62,7 +62,6 @@
 <table align="center">
   <tr>
     <th style="text-align: center; color: #ff6347;">Operating Systems</th>
-    <th style="text-align: center; color: #ffa500;">Electronics</th>
   </tr>
   <tr>
     <td align="center">
@@ -74,14 +73,6 @@
       </a>
       <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="developerandroid" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" />
-      </a>
-      <a href="https://micropython.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/589px-Micropython-logo.svg.png" alt="micropython" width="40" height="40" />
       </a>
     </td>
   </tr>
