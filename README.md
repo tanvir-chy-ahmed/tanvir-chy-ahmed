@@ -80,11 +80,11 @@
 <!-- 📊 GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TanvirAhmedChowdhury&theme=radical&show_icons=true&count_private=true" alt="Tanvir's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanvir-chy-ahmed&theme=radical&show_icons=true&count_private=true" alt="Tanvir's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirAhmedChowdhury&theme=radical&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanvir-chy-ahmed&theme=radical&layout=compact" alt="Top Languages" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanvirAhmedChowdhury&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-chy-ahmed&theme=radical" alt="GitHub Streak" />
 </p>
 
 <!-- About Me GIF -->
