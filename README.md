@@ -61,7 +61,6 @@
 <table align="center">
   <tr>
     <th style="text-align: center; color: #ff6347;">Operating Systems</th>
-    <th style="text-align: center; color: #ffa500;">Electronics & Embedded</th>
   </tr>
   <tr>
     <td align="center">
@@ -73,14 +72,6 @@
       </a>
       <a href="https://www.android.com/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.arduino.cc/" target="_blank">
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40" />
-      </a>
-      <a href="https://micropython.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Micropython-logo.svg/589px-Micropython-logo.svg.png" alt="MicroPython" width="40" height="40" />
       </a>
     </td>
   </tr>
@@ -127,7 +118,7 @@
   <a href="https://t.me/Taxor_E" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Tanvirahmedchy-0088cc?style=for-the-badge&logo=telegram" />
   </a>
-  <a href="mailto:tanvirahmedchowdhury700@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-tanvirahmedchowdhury700@gmail.com-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:tanvirahy269@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-tanvirahy269@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
