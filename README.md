@@ -64,29 +64,36 @@
   </tr>
 </table>
 
-<!-- 🧩 Desktop App Development -->
+<!-- 🧩 Desktop App Development (Table Format) -->
 <h2 align="center">🧩 Desktop App Development</h2>
 
-<p align="center">
-  <a href="https://www.qt.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/windows/apps/winui/" target="_blank">
-    <img src="https://img.icons8.com/color/48/windows-10.png" alt="WinUI" width="40" height="40"/>
-  </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=55205&format=png" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <th style="text-align: center; color: #8a2be2;">Frameworks / Tech</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://www.qt.io/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
+      </a>
+      <a href="https://learn.microsoft.com/en-us/windows/apps/winui/" target="_blank">
+        <img src="https://img.icons8.com/color/48/windows-10.png" alt="WinUI" width="40" height="40"/>
+      </a>
+      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+        <img src="https://img.icons8.com/?size=100&id=55205&format=png" alt="C#" width="40" height="40"/>
+      </a>
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+      </a>
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- 💻 Operating Systems -->
 <table align="center">
@@ -121,12 +128,6 @@
 <!-- About Me GIF -->
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="180px">
-</p>
-
-<!-- 🏆 GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanvirAhmedChowdhury&theme=radical&no-frame=true&margin-w=10" />
 </p>
 
 <!-- 💬 Dev Quote -->
