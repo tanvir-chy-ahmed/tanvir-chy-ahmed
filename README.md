@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=45&lines=Hi👋+I'm+Tanvir+Ahmed+Chowdhury..;Software+Developer+(Mobile+Apps);Native+%26+Cross-Platform+Developer;Android+(Kotlin%2C+Java%2C+Jetpack+Compose);Flutter+%7C+Dart+Enthusiast;Nice+To+Meet+You+👨‍💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=45&lines=Hi👋+I'm+Tanvir+Ahmed+Chowdhury..;Software+Developer+(Mobile+%26+Desktop+Apps);Native+%26+Cross-Platform+Developer;Android+(Kotlin%2C+Java%2C+Jetpack+Compose);Flutter+%7C+Dart+Enthusiast;C%2B%2B%2C+C%23%2C+Qt%2C+WinUI+Dev;Nice+To+Meet+You+👨‍💻" alt="Typing SVG">
 </p>
 
 <!-- 🖥️ Technical Skills -->
@@ -40,6 +40,12 @@
       <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
       </a>
+      <a href="https://www.php.net/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+      </a>
     </td>
     <td align="center">
       <a href="https://developer.android.com/studio" target="_blank">
@@ -58,6 +64,31 @@
   </tr>
 </table>
 
+<!-- 🧩 Desktop App Development -->
+<h2 align="center">🧩 Desktop App Development</h2>
+
+<p align="center">
+  <a href="https://www.qt.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/windows/apps/winui/" target="_blank">
+    <img src="https://img.icons8.com/color/48/windows-10.png" alt="WinUI" width="40" height="40"/>
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=55205&format=png" alt="C#" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+</p>
+
+<!-- 💻 Operating Systems -->
 <table align="center">
   <tr>
     <th style="text-align: center; color: #ff6347;">Operating Systems</th>
