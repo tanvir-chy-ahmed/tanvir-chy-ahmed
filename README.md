@@ -22,9 +22,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-      </a>
       <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png" alt="Kotlin" width="40" height="40" />
       </a>
@@ -42,9 +39,6 @@
       </a>
       <a href="https://www.php.net/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
       </a>
     </td>
     <td align="center">
