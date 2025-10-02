@@ -71,12 +71,6 @@
       <a href="https://learn.microsoft.com/en-us/windows/apps/winui/" target="_blank">
         <img src="https://img.icons8.com/color/48/windows-10.png" alt="WinUI" width="40" height="40"/>
       </a>
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=55205&format=png" alt="C#" width="40" height="40"/>
-      </a>
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-      </a>
     </td>
   </tr>
 </table>
