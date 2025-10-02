@@ -35,14 +35,8 @@
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
       </a>
-      <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img src="https://img.icons8.com/?size=100&id=55205&format=png" alt="C Sharp" width="40" height="40" />
-      </a>
       <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-      </a>
-      <a href="https://www.php.net/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
       </a>
     </td>
     <td align="center">
