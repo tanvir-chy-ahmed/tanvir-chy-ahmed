@@ -68,9 +68,6 @@
             <a href="https://docs.lvgl.io/8.3/widgets/core/img.html" target="_blank">
         <img src="https://media.licdn.com/dms/image/v2/D4D0BAQEqt31JeuWvWw/company-logo_200_200/company-logo_200_200/0/1720065450895/lvglgui_logo?e=2147483647&v=beta&t=zwzvTINWUBTk7VD-uvrYAxCvUuXc2G-bKJ8wht9SDGg" alt="LVGL" width="40" height="40"/>
       </a>
-      <a href="https://learn.microsoft.com/en-us/windows/apps/winui/" target="_blank">
-        <img src="https://img.icons8.com/color/48/windows-10.png" alt="WinUI" width="40" height="40"/>
-      </a>
     </td>
   </tr>
 </table>
