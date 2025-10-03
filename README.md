@@ -26,6 +26,9 @@
       <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png" alt="Kotlin" width="40" height="40" />
       </a>
+      <a href="https://kotlinlang.org/" target="_blank">
+        <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Kotlin" width="40" height="40" />
+      </a>
       <a href="https://flutter.dev/brand" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="Dart" width="40" height="40" />
       </a>
