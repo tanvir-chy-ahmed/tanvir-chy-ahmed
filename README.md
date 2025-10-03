@@ -27,7 +27,7 @@
         <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png" alt="Kotlin" width="40" height="40" />
       </a>
       <a href="https://flutter.dev/brand" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Dart" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="Dart" width="40" height="40" />
       </a>
       <a href="https://www.python.org" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -59,6 +59,9 @@
   </tr>
   <tr>
     <td align="center">
+      <a href="https://flutter.dev/brand" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Dart" width="40" height="40" />
+      </a>
       <a href="https://www.qt.io/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" alt="Qt" width="40" height="40"/>
       </a>
