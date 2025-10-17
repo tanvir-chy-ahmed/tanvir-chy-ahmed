@@ -135,6 +135,6 @@
     <img src="https://img.shields.io/badge/Telegram-Tanvirahmedchy-0088cc?style=for-the-badge&logo=telegram" />
   </a>
   <a href="mailto:tanvirahy269@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-tanvirahy269@gmail.com-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-tanvirchy269@gmail.com-red?style=for-the-badge&logo=gmail" />
   </a>
 </p>
