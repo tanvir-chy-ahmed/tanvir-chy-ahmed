@@ -132,7 +132,7 @@
     <img src="https://img.shields.io/badge/Facebook-Tanvirahmedchy-blue?style=for-the-badge&logo=facebook" />
   </a>
   <a href="https://t.me/Taxor_E" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-Tanvirahmedchy-0088cc?style=for-the-badge&logo=telegram" />
+    <img src="https://img.shields.io/badge/Telegram-https://t.me/xornexdev-0088cc?style=for-the-badge&logo=telegram" />
   </a>
   <a href="mailto:tanvirahy269@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-tanvirchy269@gmail.com-red?style=for-the-badge&logo=gmail" />
