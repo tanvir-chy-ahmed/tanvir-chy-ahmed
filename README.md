@@ -125,16 +125,20 @@
 <!-- 📫 Contact -->
 <h2 align="center">📫 Contact Me</h2>
 <p align="center">
-  <a href="https://github.com/TanvirAhmedChowdhury" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-TanvirAhmedChy-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.facebook.com/........" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Tanvirahmedchy-blue?style=for-the-badge&logo=facebook" />
-  </a>
-  <a href="https://t.me/Taxor_E" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-https://t.me/xornexdev-0088cc?style=for-the-badge&logo=telegram" />
-  </a>
-  <a href="mailto:tanvirahy269@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-tanvirchy269@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
+ <a href="https://github.com/TanvirAhmedChowdhury" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-TanvirAhmedChy-black?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+
+<a href="https://www.facebook.com/........" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Tanvirahmedchy-blue?style=for-the-badge&logo=facebook" alt="Facebook" />
+</a>
+
+<a href="https://t.me/Taxor_E" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-Taxor__E-0088cc?style=for-the-badge&logo=telegram" alt="Telegram" />
+</a>
+
+<a href="mailto:tanvirahy269@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-tanvirchy269@gmail.com-red?style=for-the-badge&logo=gmail" alt="Gmail" />
+</a>
+
 </p>
