@@ -1,6 +1,6 @@
 <!-- Header Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=45&lines=Hi👋+I'm+Tanvir+Ahmed+Chowdhury..;Software+Developer+(Mobile+%26+Desktop+Apps);Native+%26+Cross-Platform+Developer;Android+(Kotlin%2C+Java%2C+Jetpack+Compose);Flutter+%7C+Dart+Enthusiast;C%2B%2B%2C+C%23%2C+Qt%2C+WinUI+Dev;Nice+To+Meet+You+👨‍💻" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=500&height=45&lines=Hi👋+I'm+Tanvir+Ahmed+Chowdhury..;Software+Developer+(Mobile+%26+Desktop+Apps);Native+%26+Cross-Platform+Developer;Android+(Kotlin%2C+Jetpack+Compose);Flutter+%7C+Dart+Enthusiast;C%2B%2B%2C+C%23%2C+Qt%2C+WinUI+Dev;Nice+To+Meet+You+👨‍💻" alt="Typing SVG">
 </p>
 
 
