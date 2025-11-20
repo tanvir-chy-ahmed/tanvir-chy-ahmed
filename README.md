@@ -24,7 +24,7 @@
     </td>
     <td align="center">
       <a href="https://kotlinlang.org/" target="_blank">
-        <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/kotlin_icon_130893.png" alt="Kotlin" width="40" height="40" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/768px-Kotlin_icon_%282016-2021%29.svg.png?20171012085709" alt="Kotlin" width="40" height="40" />
       </a>
       <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Kotlin" width="40" height="40" />
