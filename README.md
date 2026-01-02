@@ -9,19 +9,10 @@
 
 <table align="center">
   <tr>
-    <th style="text-align: center; color: #ff4500;">Web Development</th>
     <th style="text-align: center; color: #1e90ff;">Programming Languages</th>
     <th style="text-align: center; color: #32cd32;">Tools & IDEs</th>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://www.w3schools.com/html/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-      </a>
-    </td>
     <td align="center">
       <a href="https://kotlinlang.org/" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/768px-Kotlin_icon_%282016-2021%29.svg.png?20171012085709" alt="Kotlin" width="40" height="40" />
