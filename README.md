@@ -15,13 +15,13 @@
   <tr>
     <td align="center">
       <a href="https://kotlinlang.org/" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Kotlin_icon_%282016-2021%29.svg/768px-Kotlin_icon_%282016-2021%29.svg.png?20171012085709" alt="Kotlin" width="40" height="40" />
+        <img src="https://icon.icepanel.io/Technology/svg/Kotlin.svg" alt="Kotlin" width="40" height="40" />
       </a>
-      <a href="https://kotlinlang.org/" target="_blank">
+      <a href="https://osdev.com/" target="_blank">
         <img src="https://www.svgrepo.com/show/373445/assembly.svg" alt="Kotlin" width="40" height="40" />
       </a>
       <a href="https://flutter.dev/brand" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="Dart" width="40" height="40" />
+        <img src="https://raw.githubusercontent.com/dnfield/flutter_svg/7d374d7107561cbd906d7c0ca26fef02cc01e7c8/example/assets/flutter_logo.svg?sanitize=true" alt="Dart" width="40" height="40" />
       </a>
       <a href="https://isocpp.org/" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
