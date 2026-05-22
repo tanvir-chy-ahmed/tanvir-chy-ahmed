@@ -13,14 +13,14 @@ Mobile & Desktop Dev × Embedded Systems × Red Team Ops
 # 💫 About Me
 
 ⚡ Software • Hardware • Security Engineer  
-🧠 Low-Level Systems & Cross-Platform Development  
-🚀 Embedded Tech • Firmware • Reverse Engineering  
+🧠 Focused on Low-Level Systems & Cross-Platform Development  
+🚀 Building systems across Apps, Firmware & Offensive Research  
 
 ---
 
 # 🌐 Connect
 
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/tanvir-ahmed-chowdhury-126191367"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="https://github.com/tanvir-chy-ahmed"><img src="https://skillicons.dev/icons?i=github" /></a>
 <a href="mailto:tanvirchy269@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
@@ -28,7 +28,12 @@ Mobile & Desktop Dev × Embedded Systems × Red Team Ops
 
 ---
 
-# 💻 Software Engineering
+<h1 align="center">💻 Software Engineering</h1>
+
+<p align="center">
+Cross-platform application development using Flutter, Qt/QML and Kotlin.  
+Focused on scalable UI systems, backend integration and modern software engineering workflows.
+</p>
 
 <table>
 <tr>
@@ -81,10 +86,10 @@ Android • Windows • Linux
 
 <td valign="top">
 
-### 🚀 Focus
+### 🚀 Specialization
 ```txt
 Flutter • Qt/QML • Jetpack
-Cross Platform Development
+Cross Platform Applications
 ```
 
 </td>
@@ -93,7 +98,12 @@ Cross Platform Development
 
 ---
 
-# ⚙️ Embedded Hardware Engineering
+<h1 align="center">⚙️ Embedded Hardware Engineering</h1>
+
+<p align="center">
+Designing embedded and low-level systems for RF, UAV and IoT environments.  
+Focused on firmware engineering, communication systems and hardware-software integration.
+</p>
 
 <table>
 <tr>
@@ -150,7 +160,7 @@ Hardware Debugging
 
 <td valign="top">
 
-### 🧰 Tools
+### 🧰 Hardware Tools
 ```txt
 Logic Analyzer
 Serial Debugging
@@ -163,7 +173,12 @@ PCB Bring-up
 
 ---
 
-# 🛡️ Red Team & Malware Research
+<h1 align="center">🛡️ Red Team & Malware Research</h1>
+
+<p align="center">
+Exploring reverse engineering, malware analysis and offensive security research.  
+Focused on binary exploitation, low-level debugging and threat simulation systems.
+</p>
 
 <table>
 <tr>
@@ -238,7 +253,12 @@ Binary Analysis
 
 ---
 
-# 🧠 AI / Research Stack
+<h1 align="center">🧠 AI / Research Stack</h1>
+
+<p align="center">
+Experimenting with AI frameworks, automation and data-driven systems.  
+Interested in applied machine learning and computer vision research.
+</p>
 
 <table>
 <tr>
@@ -253,11 +273,11 @@ Binary Analysis
 
 <td width="50%" valign="top">
 
-### 📊 Research
+### 📊 Research Stack
 ```txt
 NumPy • Pandas
-AI Experimentation
 Computer Vision
+AI Experimentation
 ```
 
 </td>
