@@ -12,9 +12,9 @@ Mobile & Desktop Dev × Embedded Systems × Red Team Ops
 
 # 💫 About Me
 
-⚡ Building systems across **Software, Hardware & Security**  
-🧠 Focused on **Cross-Platform Apps, Embedded Engineering & Reverse Engineering**  
-🚀 Passionate about low-level systems, firmware and offensive research  
+⚡ Software, Hardware & Security Engineer  
+🧠 Focused on Low-Level Systems & Cross-Platform Development  
+🚀 Passionate about Embedded Tech, Firmware & Reverse Engineering  
 
 ---
 
@@ -30,59 +30,123 @@ Mobile & Desktop Dev × Embedded Systems × Red Team Ops
 
 # 💻 Software Engineering
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,cpp,qt,firebase,supabase,appwrite,js,html,mysql,mongodb" />
+### 🧩 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,dart,kotlin,js,python,html" />
+</p>
+
+### ⚡ Frameworks & UI
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,qt,firebase,supabase,appwrite" />
+</p>
+
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
+</p>
+
+### 🛠️ Development Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,postman,figma" />
 </p>
 
 📱 Flutter & Jetpack Compose Apps  
-🖥️ Qt/QML Cross-Platform Desktop Software  
-☁️ Backend Integration with Firebase & APIs  
+🖥️ Qt/QML Cross-Platform Software  
+☁️ Firebase, REST APIs & Backend Systems  
 
 ---
 
 # ⚙️ Embedded Hardware Engineering
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,arduino,raspberrypi,linux" />
+### 🔧 Embedded Languages
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
 
-🔧 Embedded C/C++ & Firmware Development  
-📡 RF Communication • UAV Systems • IoT  
-🤖 ROS • FreeRTOS • LVGL • Hardware Debugging  
+### 🖥️ Platforms & Boards
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
+</p>
+
+### 📡 Protocols & Systems
+```txt
+UART • SPI • I2C • PWM • GPIO • Zigbee • RF
+```
+
+### ⚡ Embedded Technologies
+```txt
+FreeRTOS • LVGL • ROS • IoT • Firmware • UAV
+```
+
+### 🧰 Hardware Tools
+```txt
+Logic Analyzer • Serial Debugging • Sensor Integration
+PCB Bring-up • Hardware Troubleshooting
+```
+
+🔩 Firmware & Embedded Systems Development  
+📡 RF Communication & UAV Engineering  
+🤖 Linux-Based Embedded & Robotics Systems  
 
 ---
 
 # 🛡️ Red Team & Malware Research
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,linux,bash" />
+### 💀 Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,bash,linux" />
 </p>
 
-🔍 Reverse Engineering & Malware Analysis  
-⚔️ Binary Exploitation & Low-Level Research  
-🧬 Assembly • Windows Internals • Threat Simulation  
+### 🔬 Reverse Engineering
+```txt
+Assembly • Static Analysis • Dynamic Analysis
+Windows Internals • Memory Analysis
+```
+
+### ⚔️ Security Areas
+```txt
+Binary Exploitation • Malware Research
+Threat Simulation • Low-Level Debugging
+```
+
+### 🧰 Security Tools
+```txt
+Ghidra • x64dbg • Wireshark • TOR
+```
+
+🧬 Reverse Engineering & Malware Analysis  
+⚔️ Binary Exploitation & Security Research  
+🔍 Focused on Low-Level Offensive Engineering  
 
 ---
 
 # 🧠 AI / Research Stack
 
-<p align="left">
+### 🤖 Frameworks
+<p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-📊 AI Experimentation & Data Processing  
-🧪 NumPy • Pandas • Computer Vision Fundamentals  
+### 📊 Data Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+```txt
+NumPy • Pandas • AI Experimentation • Computer Vision
+```
 
 ---
 
-# 🛠️ Tools & Workflow
+# 🐧 Environment & Workflow
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,figma,postman" />
+<p>
+<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab" />
 </p>
 
-⚡ GitHub Actions • GitLab CI/CD  
-🐧 Linux Workflow • FFmpeg • Gradle  
+```txt
+GitHub Actions • GitLab CI/CD • XFCE • FFmpeg • Gradle
+```
 
 ---
 
@@ -98,11 +162,11 @@ Mobile & Desktop Dev × Embedded Systems × Red Team Ops
 
 ---
 
-# 🚀 Domains
+# 🚀 Core Domains
 
 ```txt
 Mobile Apps • Desktop Software • Embedded Systems
-RF & UAV Engineering • Firmware Development
+Firmware Engineering • RF & UAV Systems
 Reverse Engineering • Malware Research • Red Team Ops
 ```
 
