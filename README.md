@@ -12,9 +12,9 @@ Mobile & Desktop Dev × Embedded Systems × Red Team Ops
 
 # 💫 About Me
 
-⚡ Software, Hardware & Security Engineer  
-🧠 Focused on Low-Level Systems & Cross-Platform Development  
-🚀 Passionate about Embedded Tech, Firmware & Reverse Engineering  
+⚡ Software • Hardware • Security Engineer  
+🧠 Low-Level Systems & Cross-Platform Development  
+🚀 Embedded Tech • Firmware • Reverse Engineering  
 
 ---
 
@@ -30,123 +30,239 @@ Mobile & Desktop Dev × Embedded Systems × Red Team Ops
 
 # 💻 Software Engineering
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
 ### 🧩 Languages
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,c,dart,kotlin,js,python,html" />
+<img src="https://skillicons.dev/icons?i=cpp,c,dart,kotlin,js,python" />
 </p>
 
-### ⚡ Frameworks & UI
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,qt,firebase,supabase,appwrite" />
 </p>
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🛠️ Tools
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" />
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ### 🗄️ Databases
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
-### 🛠️ Development Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,androidstudio,postman,figma" />
-</p>
+</td>
 
-📱 Flutter & Jetpack Compose Apps  
-🖥️ Qt/QML Cross-Platform Software  
-☁️ Firebase, REST APIs & Backend Systems  
+<td valign="top">
+
+### 📱 Platforms
+```txt
+Android • Windows • Linux
+```
+
+</td>
+
+<td valign="top">
+
+### 🚀 Focus
+```txt
+Flutter • Qt/QML • Jetpack
+Cross Platform Development
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 # ⚙️ Embedded Hardware Engineering
 
-### 🔧 Embedded Languages
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔧 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
 </p>
 
-### 🖥️ Platforms & Boards
+</td>
+
+<td width="33%" valign="top">
+
+### 🖥️ Platforms
 <p>
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
 </p>
 
-### 📡 Protocols & Systems
+</td>
+
+<td width="33%" valign="top">
+
+### ⚡ Embedded Stack
 ```txt
-UART • SPI • I2C • PWM • GPIO • Zigbee • RF
+FreeRTOS • LVGL • ROS
+Firmware • IoT • UAV
 ```
 
-### ⚡ Embedded Technologies
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 📡 Protocols
 ```txt
-FreeRTOS • LVGL • ROS • IoT • Firmware • UAV
+UART • SPI • I2C
+PWM • GPIO • Zigbee
 ```
 
-### 🧰 Hardware Tools
+</td>
+
+<td valign="top">
+
+### 🔬 Engineering
 ```txt
-Logic Analyzer • Serial Debugging • Sensor Integration
-PCB Bring-up • Hardware Troubleshooting
+RF Systems
+Sensor Integration
+Hardware Debugging
 ```
 
-🔩 Firmware & Embedded Systems Development  
-📡 RF Communication & UAV Engineering  
-🤖 Linux-Based Embedded & Robotics Systems  
+</td>
+
+<td valign="top">
+
+### 🧰 Tools
+```txt
+Logic Analyzer
+Serial Debugging
+PCB Bring-up
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🛡️ Red Team & Malware Research
+
+<table>
+<tr>
+<td width="33%" valign="top">
 
 ### 💀 Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,c,bash,linux" />
 </p>
 
+</td>
+
+<td width="33%" valign="top">
+
 ### 🔬 Reverse Engineering
 ```txt
-Assembly • Static Analysis • Dynamic Analysis
-Windows Internals • Memory Analysis
+Assembly
+Static Analysis
+Dynamic Analysis
 ```
+
+</td>
+
+<td width="33%" valign="top">
 
 ### ⚔️ Security Areas
 ```txt
-Binary Exploitation • Malware Research
-Threat Simulation • Low-Level Debugging
+Malware Research
+Binary Exploitation
+Threat Simulation
 ```
 
-### 🧰 Security Tools
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+### 🧰 Tools
 ```txt
-Ghidra • x64dbg • Wireshark • TOR
+Ghidra
+x64dbg
+Wireshark
+TOR
 ```
 
-🧬 Reverse Engineering & Malware Analysis  
-⚔️ Binary Exploitation & Security Research  
-🔍 Focused on Low-Level Offensive Engineering  
+</td>
+
+<td valign="top">
+
+### 🧠 Research
+```txt
+Windows Internals
+Memory Analysis
+Low-Level Debugging
+```
+
+</td>
+
+<td valign="top">
+
+### 🚨 Focus
+```txt
+Reverse Engineering
+Offensive Research
+Binary Analysis
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🧠 AI / Research Stack
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Frameworks
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### 📊 Data Tools
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+</td>
 
+<td width="50%" valign="top">
+
+### 📊 Research
 ```txt
-NumPy • Pandas • AI Experimentation • Computer Vision
+NumPy • Pandas
+AI Experimentation
+Computer Vision
 ```
 
----
-
-# 🐧 Environment & Workflow
-
-<p>
-<img src="https://skillicons.dev/icons?i=linux,git,github,gitlab" />
-</p>
-
-```txt
-GitHub Actions • GitLab CI/CD • XFCE • FFmpeg • Gradle
-```
+</td>
+</tr>
+</table>
 
 ---
 
@@ -159,16 +275,6 @@ GitHub Actions • GitLab CI/CD • XFCE • FFmpeg • Gradle
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanvir-chy-ahmed&theme=tokyonight"/>
 </p>
-
----
-
-# 🚀 Core Domains
-
-```txt
-Mobile Apps • Desktop Software • Embedded Systems
-Firmware Engineering • RF & UAV Systems
-Reverse Engineering • Malware Research • Red Team Ops
-```
 
 ---
 
