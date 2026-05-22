@@ -260,18 +260,3 @@ AI Experimentation
 
 ---
 
-# 📫 Contact
-
-<p align="center">
-  <a href="mailto:tanvirchy269@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
-  </a>
-
-  <a href="https://github.com/tanvir-chy-ahmed">
-    <img src="https://img.shields.io/badge/GitHub-Tanvir-black?style=for-the-badge&logo=github"/>
-  </a>
-
-  <a href="https://t.me/xornexdev">
-    <img src="https://img.shields.io/badge/Telegram-xornexdev-0088cc?style=for-the-badge&logo=telegram"/>
-  </a>
-</p>
