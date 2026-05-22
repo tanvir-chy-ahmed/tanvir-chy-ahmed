@@ -37,60 +37,45 @@ Focused on scalable UI systems, backend integration and modern software engineer
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<th align="center">🧩 Languages</th>
+<th align="center">⚡ Frameworks</th>
+<th align="center">🛠️ Tools</th>
+</tr>
 
-### 🧩 Languages
-<p>
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=cpp,c,dart,kotlin,js,python" />
-</p>
-
 </td>
 
-<td width="33%" valign="top">
-
-### ⚡ Frameworks
-<p>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=flutter,qt,firebase,supabase,appwrite" />
-</p>
-
 </td>
 
-<td width="33%" valign="top">
-
-### 🛠️ Tools
-<p>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma,postman" />
-</p>
-
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<th align="center">🗄️ Databases</th>
+<th align="center">📱 Platforms</th>
+<th align="center">🚀 Specialization</th>
+</tr>
 
-### 🗄️ Databases
-<p>
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
-</p>
-
 </td>
 
-<td valign="top">
+<td align="center">
 
-### 📱 Platforms
-```txt
 Android • Windows • Linux
-```
 
 </td>
 
-<td valign="top">
+<td align="center">
 
-### 🚀 Specialization
-```txt
 Flutter • Qt/QML • Jetpack
-Cross Platform Applications
-```
 
 </td>
 </tr>
@@ -107,65 +92,55 @@ Focused on firmware engineering, communication systems and hardware-software int
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<th align="center">🔧 Languages</th>
+<th align="center">🖥️ Platforms</th>
+<th align="center">⚡ Embedded Stack</th>
+</tr>
 
-### 🔧 Languages
-<p>
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=c,cpp,python,bash" />
-</p>
-
 </td>
 
-<td width="33%" valign="top">
-
-### 🖥️ Platforms
-<p>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" />
-</p>
-
 </td>
 
-<td width="33%" valign="top">
+<td align="center">
 
-### ⚡ Embedded Stack
-```txt
-FreeRTOS • LVGL • ROS
+FreeRTOS • LVGL • ROS  
 Firmware • IoT • UAV
-```
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<th align="center">📡 Protocols</th>
+<th align="center">🔬 Engineering</th>
+<th align="center">🧰 Hardware Tools</th>
+</tr>
 
-### 📡 Protocols
-```txt
-UART • SPI • I2C
+<tr>
+<td align="center">
+
+UART • SPI • I2C  
 PWM • GPIO • Zigbee
-```
 
 </td>
 
-<td valign="top">
+<td align="center">
 
-### 🔬 Engineering
-```txt
-RF Systems
-Sensor Integration
+RF Systems  
+Sensor Integration  
 Hardware Debugging
-```
 
 </td>
 
-<td valign="top">
+<td align="center">
 
-### 🧰 Hardware Tools
-```txt
-Logic Analyzer
-Serial Debugging
+Logic Analyzer  
+Serial Debugging  
 PCB Bring-up
-```
 
 </td>
 </tr>
@@ -182,70 +157,60 @@ Focused on binary exploitation, low-level debugging and threat simulation system
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<th align="center">💀 Languages</th>
+<th align="center">🔬 Reverse Engineering</th>
+<th align="center">⚔️ Security Areas</th>
+</tr>
 
-### 💀 Languages
-<p>
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=python,c,bash,linux" />
-</p>
-
 </td>
 
-<td width="33%" valign="top">
+<td align="center">
 
-### 🔬 Reverse Engineering
-```txt
-Assembly
-Static Analysis
+Assembly  
+Static Analysis  
 Dynamic Analysis
-```
 
 </td>
 
-<td width="33%" valign="top">
+<td align="center">
 
-### ⚔️ Security Areas
-```txt
-Malware Research
-Binary Exploitation
+Malware Research  
+Binary Exploitation  
 Threat Simulation
-```
 
 </td>
 </tr>
 
 <tr>
-<td valign="top">
+<th align="center">🧰 Tools</th>
+<th align="center">🧠 Research</th>
+<th align="center">🚨 Focus</th>
+</tr>
 
-### 🧰 Tools
-```txt
-Ghidra
-x64dbg
-Wireshark
-TOR
-```
+<tr>
+<td align="center">
+
+Ghidra • x64dbg  
+Wireshark • TOR
 
 </td>
 
-<td valign="top">
+<td align="center">
 
-### 🧠 Research
-```txt
-Windows Internals
-Memory Analysis
+Windows Internals  
+Memory Analysis  
 Low-Level Debugging
-```
 
 </td>
 
-<td valign="top">
+<td align="center">
 
-### 🚨 Focus
-```txt
-Reverse Engineering
-Offensive Research
+Reverse Engineering  
+Offensive Research  
 Binary Analysis
-```
 
 </td>
 </tr>
@@ -262,23 +227,20 @@ Interested in applied machine learning and computer vision research.
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<th align="center">🤖 Frameworks</th>
+<th align="center">📊 Research Stack</th>
+</tr>
 
-### 🤖 Frameworks
-<p>
+<tr>
+<td align="center">
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
 </td>
 
-<td width="50%" valign="top">
+<td align="center">
 
-### 📊 Research Stack
-```txt
-NumPy • Pandas
-Computer Vision
+NumPy • Pandas  
+Computer Vision  
 AI Experimentation
-```
 
 </td>
 </tr>
