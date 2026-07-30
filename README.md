@@ -10,10 +10,10 @@
   <br />
   <br />
 
-  <a href="https://github.com/pascaladitia">
+  <a href="https://github.com/tanvir-chy-ahmed">
     <img src="https://img.shields.io/badge/GitHub-pascaladitia-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:pascaladitia@gmail.com">
+  <a href="mailto:tanvirchy269@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <img src="https://img.shields.io/badge/Remote-Available-16A34A?style=for-the-badge" alt="Remote available" />
@@ -147,7 +147,7 @@ tanvir = CybersecurityLearner(
   <br />
   <br />
 
-  <b>Open to remote Android, Kotlin, and Kotlin Multiplatform roles.</b>
+  <b>Open to remote Android, Kotlin & Flutter, and Embedded Systems roles.</b>
 
   <br />
   <br />
