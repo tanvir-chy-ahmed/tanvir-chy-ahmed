@@ -1,95 +1,80 @@
 <div align="center">
 
-<img
-  src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;text=Tanvir%20Ahmed%20%28Chy%29&amp;textBg=false&amp;desc=Software%20Developer%20%28Android%20%7C%20Flutter%29%20%7C%20Hardware%20Engineer%20%28Embedded%20Systems%29%20%7C%20Cybersecurity%20Learner&amp;descAlign=49&amp;descAlignY=68&amp;descSize=14&amp;reversal=true"
-  alt="Tanvir Ahmed"
-/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;text=Tanvir%20Ahmed%20%28Chy%29&amp;textBg=false&amp;desc=Software%20Developer%20%28Android%20%7C%20Flutter%29%20%7C%20Hardware%20Engineer%20%28Embedded%20Systems%29%20%7C%20Cybersecurity%20Learner&amp;descAlign=49&amp;descAlignY=68&amp;descSize=14&amp;reversal=true" alt="Tanvir Ahmed" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Production-ready+Android+apps;Kotlin-first+mobile+engineering;Jetpack+Compose+%2B+Kotlin+Multiplatform;Clean+architecture+with+product+quality" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Android+%26+Flutter+Developer;Embedded+Systems+%26+Firmware+Engineer;IoT+%26+Hardware+Enthusiast;Cybersecurity+%26+Reverse+Engineering+Learner;Building+Software+%2B+Hardware+Solutions" alt="Typing Animation" />
 
-  <br />
-  <br />
+<br><br>
 
-  <a href="https://github.com/tanvir-chy-ahmed">
-    <img src="https://img.shields.io/badge/GitHub-pascaladitia-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:tanvirchy269@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Remote-Available-16A34A?style=for-the-badge" alt="Remote available" />
+<a href="https://github.com/tanvir-chy-ahmed">
+<img src="https://img.shields.io/badge/GitHub-tanvir--chy--ahmed-020617?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:tanvirchy269@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-16A34A?style=for-the-badge"/>
 
 </div>
 
-<br />
+---
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,java,gradle,git,github,firebase" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,androidstudio,c,cpp,python,linux,git,github,firebase"/>
 
 </div>
 
-<br />
+# 👋 About Me
 
-## About Me
+I'm **Tanvir Ahmed**, a Software Developer and Hardware Engineer passionate about building reliable software and intelligent hardware systems.
 
-I build Android apps with a focus on clean architecture, smooth UI, and long-term maintainability. My main stack is **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform**.
+My primary interests include:
 
-I like working close to product goals, turning complex requirements into clear mobile flows, and keeping the codebase healthy enough for teams to move fast without breaking quality.
+- 📱 Android Development (Kotlin & Jetpack Compose)
+- 🦋 Flutter Cross-platform Development
+- 🔧 Embedded Systems & Firmware Engineering
+- ⚡ IoT & Electronics
+- 🔐 Cybersecurity & Reverse Engineering
 
-<br />
+I enjoy creating products that combine **software, firmware, and hardware** while continuously learning low-level systems, embedded security, and offensive security concepts.
 
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Android-Production%20Apps-16A34A?style=for-the-badge&logo=android&logoColor=white" alt="Android production apps" />
-      <br />
-      <sub>Production features, releases, and user-facing quality.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Kotlin-First-7C3AED?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin first" />
-      <br />
-      <sub>Modern Kotlin, Coroutines, Flow, and readable APIs.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/Compose-Modern%20UI-2563EB?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose" />
-      <br />
-      <sub>Declarative UI, predictable state, and reusable components.</sub>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://img.shields.io/badge/KMP-Shared%20Logic-0F172A?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin Multiplatform" />
-      <br />
-      <sub>Shared business logic for Android-first mobile products.</sub>
-    </td>
-  </tr>
-</table>
+---
 
-## Focus
+# 🚀 Core Focus
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Clean%20Architecture-0F172A?style=flat-square" alt="Clean Architecture" />
-  <img src="https://img.shields.io/badge/MVVM-0F172A?style=flat-square" alt="MVVM" />
-  <img src="https://img.shields.io/badge/Coroutines-0F172A?style=flat-square" alt="Coroutines" />
-  <img src="https://img.shields.io/badge/Flow-0F172A?style=flat-square" alt="Flow" />
-  <img src="https://img.shields.io/badge/Modularization-0F172A?style=flat-square" alt="Modularization" />
-  <img src="https://img.shields.io/badge/Performance-0F172A?style=flat-square" alt="Performance" />
-  <img src="https://img.shields.io/badge/CI%2FCD-0F172A?style=flat-square" alt="CI/CD" />
-  <img src="https://img.shields.io/badge/Code%20Review-0F172A?style=flat-square" alt="Code Review" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Embedded%20Systems-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Firmware-0F172A?style=flat-square"/>
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square"/>
+<img src="https://img.shields.io/badge/STM32-03234B?style=flat-square"/>
+<img src="https://img.shields.io/badge/IoT-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Reverse%20Engineering-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Hardware%20Security-2563EB?style=flat-square"/>
 
 </div>
 
-<br />
+---
 
-# Engineering Style
+# ⚙ Engineering Style
 
-## 💻 Android Development
+## 📱 Android Development
 
 ```kotlin
-val tanvir = AndroidDeveloper(
+val tanvir = SoftwareDeveloper(
+    mobile = listOf("Android", "Flutter"),
     languages = listOf("Kotlin", "Dart"),
-    frameworks = listOf("Jetpack Compose", "Flutter"),
     architecture = "MVVM & Clean Architecture",
-    goal = "Build modern, scalable, and high-performance mobile apps"
+    goal = "Build scalable, modern and high-performance mobile applications"
 )
 ```
 
@@ -98,9 +83,9 @@ val tanvir = AndroidDeveloper(
 ```cpp
 EmbeddedEngineer tanvir{
     .languages = {"C", "C++"},
-    .platforms = {"ESP32", "STM32", "Embedded Linux"},
-    .interests = {"Firmware", "IoT", "Electronics"},
-    .goal = "Design reliable firmware and intelligent hardware systems"
+    .platforms = {"ESP32", "STM32"},
+    .focus = {"Firmware", "IoT", "Electronics"},
+    .goal = "Reliable embedded software for smart devices"
 };
 ```
 
@@ -109,56 +94,53 @@ EmbeddedEngineer tanvir{
 ```python
 tanvir = CybersecurityLearner(
     interests=[
-        "Red Teaming",
         "Reverse Engineering",
-        "Hardware H4cking",
-        "IoT Security"
+        "Hardware Security",
+        "IoT Security",
+        "Binary Exploitation"
     ],
     mindset="Learn • Build • Secure"
 )
 ```
 
-<br />
+---
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:1D4ED8,100:7C3AED&text=Android%20%7C%20Kotlin%20%7C%20Compose%20%7C%20KMP&fontColor=FFFFFF&fontSize=22&animation=twinkling" alt="Android Kotlin Compose KMP banner" />
+<img src="https://capsule-render.vercel.app/api?type=soft&height=90&color=0:020617,50:1D4ED8,100:7C3AED&text=Android%20%7C%20Flutter%20%7C%20Embedded%20Systems%20%7C%20Cybersecurity&fontColor=FFFFFF&fontSize=22&animation=twinkling"/>
 
 </div>
 
-## Contribution Snake
+---
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pascaladitia/pascaladitia/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pascaladitia/pascaladitia/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/pascaladitia/pascaladitia/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
-<br />
+---
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient" alt="Divider" />
+**Building Software • Firmware • Embedded Systems • Secure Technology**
 
-  <br />
-  <br />
+<br><br>
 
-  <b>Open to remote Android, Kotlin & Flutter, and Embedded Systems roles.</b>
+<a href="https://github.com/tanvir-chy-ahmed">
+<img src="https://img.shields.io/badge/GitHub-tanvir--chy--ahmed-020617?style=flat-square&logo=github&logoColor=white"/>
+</a>
 
-  <br />
-  <br />
+<a href="mailto:tanvirchy269@gmail.com">
+<img src="https://img.shields.io/badge/Email-tanvirchy269@gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
 
-  <a href="https://github.com/pascaladitia">
-    <img src="https://img.shields.io/badge/GitHub-pascaladitia-020617?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:pascaladitia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-pascaladitia%40gmail.com-2563EB?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:2563EB,100:020617" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7C3AED,50:2563EB,100:020617"/>
 
 </div>
