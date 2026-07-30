@@ -67,14 +67,13 @@ I enjoy creating products that combine **software, firmware, and hardware** whil
 
 # ⚙ Engineering Style
 
-## 📱 Android Development
+## 📱 Software Development
 
 ```kotlin
 val tanvir = SoftwareDeveloper(
-    mobile = listOf("Android", "Flutter"),
+    platforms = listOf("Android", "Flutter"),
     languages = listOf("Kotlin", "Dart"),
-    architecture = "MVVM & Clean Architecture",
-    goal = "Build scalable, modern and high-performance mobile applications"
+    architecture = "MVVM & Clean Architecture"
 )
 ```
 
@@ -83,26 +82,29 @@ val tanvir = SoftwareDeveloper(
 ```cpp
 EmbeddedEngineer tanvir{
     .languages = {"C", "C++"},
-    .platforms = {"ESP32", "STM32"},
-    .focus = {"Firmware", "IoT", "Electronics"},
-    .goal = "Reliable embedded software for smart devices"
+    .platforms = {"ESP32", "STM32", "Embedded Linux"},
+    .focus = {
+        "Firmware Development",
+        "IoT Devices",
+        "Low-Level Programming"
+    }
 };
 ```
 
 ## 🔐 Cybersecurity
 
 ```python
-tanvir = CybersecurityLearner(
-    interests=[
-        "Reverse Engineering",
-        "Hardware Security",
+tanvir = SecurityEngineer(
+    focus=[
         "IoT Security",
+        "Hardware Hacking",
+        "Reverse Engineering",
+        "Embedded Security",
         "Binary Exploitation"
     ],
-    mindset="Learn • Build • Secure"
+    mission="Understand systems deeply, discover vulnerabilities, and build secure technology."
 )
 ```
-
 ---
 
 <div align="center">
@@ -118,9 +120,15 @@ tanvir = CybersecurityLearner(
 <div align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake.svg"/>
-<img src="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake.svg"/>
+    <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake-dark.svg" />
+    <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake.svg" />
+    <img
+        src="https://raw.githubusercontent.com/tanvir-chy-ahmed/tanvir-chy-ahmed/output/github-contribution-grid-snake.svg"
+        alt="Contribution Snake Animation" />
 </picture>
 
 </div>
