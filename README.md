@@ -22,7 +22,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=kotlin,dart,flutter,androidstudio,c,cpp,python,linux,git,github,firebase"/>
+<img src="https://skillicons.dev/icons?i=kotlin,flutter,c,cpp,linux"/>
 
 </div>
 
