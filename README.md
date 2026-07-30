@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;text=Tanvir%20Ahmed%20%28Chy%29&amp;textBg=false&amp;desc=Software%20Developer%20%28Android%20%26%20Flutter%29%20%7C%20Hardware%20Engineer%20%28Embedded%20Systems%29%20%7C%20Cybersecurity%20Learner&amp;descAlign=34&amp;descAlignY=64" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;text=Tanvir%20Ahmed%20%28Chy%29&amp;textBg=false&amp;desc=Software%20Developer%20%28Android%20%7C%20Flutter%29%20%7C%20Hardware%20Engineer%20%28Embedded%20Systems%29%20%7C%20Cybersecurity%20Learner&amp;descAlign=49&amp;descAlignY=68&amp;descSize=14&amp;reversal=true"
+  alt="Tanvir Ahmed"
+/>
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Production-ready+Android+apps;Kotlin-first+mobile+engineering;Jetpack+Compose+%2B+Kotlin+Multiplatform;Clean+architecture+with+product+quality" alt="Typing animation" />
 
