@@ -80,13 +80,41 @@ I like working close to product goals, turning complex requirements into clear m
 
 <br />
 
-## Engineering Style
+# Engineering Style
+
+## 💻 Android Development
 
 ```kotlin
-val pascal = AndroidEngineer(
-    focus = listOf("Kotlin", "Compose", "KMP", "Clean Architecture"),
-    caresAbout = listOf("performance", "maintainability", "product quality"),
-    prefers = "simple code, clear state, and scalable mobile foundations"
+val tanvir = AndroidDeveloper(
+    languages = listOf("Kotlin", "Dart"),
+    frameworks = listOf("Jetpack Compose", "Flutter"),
+    architecture = "MVVM & Clean Architecture",
+    goal = "Build modern, scalable, and high-performance mobile apps"
+)
+```
+
+## 🔧 Embedded Systems
+
+```cpp
+EmbeddedEngineer tanvir{
+    .languages = {"C", "C++"},
+    .platforms = {"ESP32", "STM32", "Embedded Linux"},
+    .interests = {"Firmware", "IoT", "Electronics"},
+    .goal = "Design reliable firmware and intelligent hardware systems"
+};
+```
+
+## 🔐 Cybersecurity
+
+```python
+tanvir = CybersecurityLearner(
+    interests=[
+        "Red Teaming",
+        "Reverse Engineering",
+        "Hardware H4cking",
+        "IoT Security"
+    ],
+    mindset="Learn • Build • Secure"
 )
 ```
 
