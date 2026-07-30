@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:020617,40:1D4ED8,100:7C3AED&text=Pascal%20Aditia%20Muclis&fontColor=FFFFFF&fontSize=40&fontAlignY=36&desc=Software%20Developer%20(Android%20%26%20Flutter)%20%7C%20Hardware%20Engineer%20(Embedded%20Systems)%20%7C%20Cybersecurity%20Learner&descAlignY=58&descSize=16&animation=fadeIn" alt="Pascal Aditia Muclis" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;color=gradient&amp;text=Tanvir%20Ahmed%20%28Chy%29&amp;textBg=false&amp;desc=Software%20Developer%20%28Android%20%26%20Flutter%29%20%7C%20Hardware%20Engineer%20%28Embedded%20Systems%29%20%7C%20Cybersecurity%20Learner&amp;descAlign=34&amp;descAlignY=64" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=23&duration=2400&pause=700&color=38BDF8&center=true&vCenter=true&width=760&lines=Production-ready+Android+apps;Kotlin-first+mobile+engineering;Jetpack+Compose+%2B+Kotlin+Multiplatform;Clean+architecture+with+product+quality" alt="Typing animation" />
 
